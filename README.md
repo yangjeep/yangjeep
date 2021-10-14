@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋 I'm yangjeep aka JJ
+- 🔭 I’m currently working in Cisco as a software development manager. 
+- 🌱 I’m currently learning Redis, RabbitMQ, SONiC, OpenConfig. 
+- 👯 I’m also interested in soccer, badminton, photography, travelling and food. 
+- 💬 Ask me about the job openings in my team! 
+- 📫 How to reach me: https://yangjeep.github.io/
 
 <!--
 **yangjeep/yangjeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
