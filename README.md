@@ -1,4 +1,4 @@
-### Hi there 👋 I'm yangjeep
+### Hi there 👋 I'm JJ
 - 🔭 I’m currently working at [Searchspring](https://github.com/searchspring). 
 - 🌱 I’m currently learning new tech stacks there and ask me later about it! 
 - 👯 I’m also interested in soccer, badminton, photography, travelling and food. 
