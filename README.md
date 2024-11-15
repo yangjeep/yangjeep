@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm JJ
 - 🔭 I’m currently working at [Searchspring](https://github.com/searchspring).
 - ⼯ I focus in Data Engineering and Analytics (Insights), Cyber Security, and Emerging Technologies. 
-- 🌱 I’m currently learning French! 
+- 🌱 I’m currently learning French on Duolingo! 
 - 👯 I’m also interested in Soccer, Badminton, Photography, Travelling, Food and C-Pop!
 - 💬 Ask me about the job openings in my team! 
 - 📫 How to reach me: https://yangjeep.io/
