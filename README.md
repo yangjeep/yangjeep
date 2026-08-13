@@ -1,22 +1,12 @@
-### Hi there 👋 I'm JJ aka [yangjeep](https://yangjeep.io/)
-- 🔭 I’m currently working at [Athos Commerce](https://github.com/searchspring).
-- ⼯ I focus in Data Engineering and Analytics (aka Big Data), Cyber Security, and Emerging Technologies (LLM, GenAI, Machine Learning etc).
-- ✨ Recently building [LeaseLab](https://github.com/yangjeep/leaselab), an AI-first ops system for landlords and property management.
-- 🌱 I’m currently learning French on Duolingo
-- 👯 I’m also interested in Soccer, Badminton, Photography, Travelling, Food and C-Pop Music!
-- 💬 Ask me about the job openings in my team! 
-- 📫 How to reach me: [yangjeep.io](https://yangjeep.io/)
-<!--
-**yangjeep/yangjeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there — I'm JJ aka [yangjeep](https://yangjeep.io/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Senior Director of Engineering at [Athos Commerce](https://github.com/searchspring) (formerly Searchspring).
+- 🏗️ I lead across data platforms, analytics, AI enablement, customer engineering, cybersecurity, and platform modernization.
+- 📊 I enjoy messy scaling problems: rebuilding data foundations, simplifying architecture, improving reliability and observability, and turning engineering work into measurable business outcomes.
+- 🤖 Current interests include agentic AI, AI-native engineering workflows, data platforms for AI, and pragmatic build-vs-buy decisions.
+- ✨ I’m also building [LeaseLab](https://github.com/yangjeep/leaselab), an AI-first operations system for landlords and property management.
+- 🌐 Previously spent 10 years at Cisco working on carrier-grade distributed systems and IOS-XR networking infrastructure.
+- 🎯 Interested in senior engineering leadership opportunities spanning Data, Platform, AI, and technology-driven company building.
+- 🌱 Learning French on Duolingo.
+- ⚽ Outside work: soccer, badminton, photography, travel, food, and C-Pop.
+- 📫 Reach me via [yangjeep.io](https://yangjeep.io/).
