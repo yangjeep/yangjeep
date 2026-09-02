@@ -1,12 +1,12 @@
-### Hi there — I'm JJ aka [yangjeep](https://yangjeep.io/)
+### Hi, I'm JJ — Jiajian Yang
 
-- 🔭 Senior Director of Engineering at [Athos Commerce](https://github.com/searchspring) (formerly Searchspring).
-- 🏗️ I lead across data platforms, analytics, AI enablement, customer engineering, cybersecurity, and platform modernization.
-- 📊 I enjoy messy scaling problems: rebuilding data foundations, simplifying architecture, improving reliability and observability, and turning engineering work into measurable business outcomes.
-- 🤖 Current interests include agentic AI, AI-native engineering workflows, data platforms for AI, and pragmatic build-vs-buy decisions.
-- ✨ I’m also building [LeaseLab](https://github.com/yangjeep/leaselab), an AI-first operations system for landlords and property management.
-- 🌐 Previously spent 10 years at Cisco working on carrier-grade distributed systems and IOS-XR networking infrastructure.
-- 🎯 Interested in senior engineering leadership opportunities spanning Data, Platform, AI, and technology-driven company building.
-- 🌱 Learning French on Duolingo.
+I'm an engineering leader with deep systems roots, currently at [Athos Commerce](https://github.com/searchspring) (formerly Searchspring).
+
+- 🏗️ I work across **platform and infrastructure, reliability and observability, data systems, developer tooling, and engineering organization design**.
+- 🌐 Before Athos, I spent 10 years at **Cisco** working on IOS-XR forwarding infrastructure, release systems, telemetry, and reliability across 15+ carrier-grade platforms.
+- 📉 I like problems where architecture and economics meet: platform modernization, operational simplification, reliability, cloud cost, and build-vs-buy decisions.
+- 🧰 Current hands-on interests include Kubernetes, GitOps, observability, homelab infrastructure, AI-assisted engineering workflows, and practical automation.
+- ✨ I build side projects, including [LeaseLab](https://github.com/yangjeep/leaselab), to test ideas against real operating problems.
+- 🎯 Professionally, I'm most interested in senior **Platform / Infrastructure leadership** and **VP Engineering** roles where technical depth still matters.
 - ⚽ Outside work: soccer, badminton, photography, travel, food, and C-Pop.
-- 📫 Reach me via [yangjeep.io](https://yangjeep.io/).
+- 📫 More about me: [yangjeep.com](https://yangjeep.com/).
